@@ -160,6 +160,13 @@ a:focus {
   }
 }
 
+.hr-edge-weak {
+    border: 0;
+    padding-top: 1px;
+    margin: 8rem;
+    background: linear-gradient(to right, transparent, #ffffff, transparent);
+}
+
 .nav-scroller {
   position: relative;
   z-index: 2;
